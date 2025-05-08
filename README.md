@@ -1,2 +1,2 @@
 # test-repo
-Ignore this
+Just a test
